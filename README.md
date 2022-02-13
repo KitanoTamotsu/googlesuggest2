@@ -17,7 +17,9 @@
 <br>　Lesson4のようにバイリンガル起動にしてもよいでしょう
 <br>　グーグルサジェストのURLは以下のもの
 <br>　「q=」の後にキーワードをつけますがargの日本後をそのまま記述してもOKでした
-`https://suggestqueries.google.com/complete/search?output=toolbar&q=`
+```
+https://suggestqueries.google.com/complete/search?output=toolbar&q=
+```
 <br>　
 <br>　と、ここまでは良かったのですが実際に動かしてみるとちょっと想定外なことが起きました
 <br>　一つは、リターンされるXMLのデータが文字コードでリターンされること
