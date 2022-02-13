@@ -81,7 +81,7 @@
 ### 機能:
 　グーグルサジェストをAlfred出力フォーマットで表示する
 ### インストール:
-　1.[alfredworkflow](https://github.com/KitanoTamotsu/noet/releases/download/1.0/googlesuggest.alfredworkflow.zip)をダウンロード 
+　1.[alfredworkflow](https://github.com/KitanoTamotsu/googlesuggesut/releases/download/v1.0/googlesuggest.alfredworkflow.zip)をダウンロード 
 <br>　2.ファイルをダブルクリックしてワークフローに登録
 
 ### 使い方:
