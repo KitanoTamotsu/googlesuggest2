@@ -1,5 +1,8 @@
 ## 　　Lesson34.グーグルサジェストを使う
 #### 開発メモ
+ワークフロー
+<br><img width="600" src="https://user-images.githubusercontent.com/40127279/153736515-857e3014-bac3-4641-8646-afc05e532dcc.png">
+
 ### 1.ワークフローの構成
 　Alfredワークフローサンプルでお馴染みのWEBツールです　
 <br>　キーワードに関連する検索候補を挙げてくれるものです　
@@ -20,8 +23,7 @@
 <br>　もう一つは、リターンされるワードが複数あるときに半角ブランクがはいること
 <br>　
 <br>　たとえば「オミクロン」とすると、ブラウザではこう返ってくるのですが
-
-<img width="600" src="https://user-images.githubusercontent.com/40127279/153735959-2f68825b-c000-424e-a5e2-87035dec580d.png">
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/153735959-2f68825b-c000-424e-a5e2-87035dec580d.png">
 
 <br>　
 <br>　実際にCURLでリターンされているのは下記となります
@@ -74,7 +76,7 @@
 ### 5.JSONフォーマットの作成
 <br>　XMLのリターンの一番先頭は、もとの検索ワードのそのままなので2つ目からを表示させています
 <br>　titleとargにサジェストされる文字をセットしてできあがりです
-<img width="600" src="https://user-images.githubusercontent.com/40127279/153735977-0cf00857-bc55-46f9-b3b4-1a8f10fdb4cc.png">
+<br>　<img width="600" src="https://user-images.githubusercontent.com/40127279/153735977-0cf00857-bc55-46f9-b3b4-1a8f10fdb4cc.png">
 
 
 #### 取扱説明
